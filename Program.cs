@@ -45,3 +45,6 @@ for (int i = 0; i < quantity; i++)
 
 
 Console.WriteLine("Generated name: " + name.Trim());
+
+Console.WriteLine("Press Enter to exit...");
+Console.ReadLine();
